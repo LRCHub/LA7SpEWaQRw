@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "記念撮影",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-03-01T13:11:20.480315Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kinen Satsuei [記念撮影]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_Kinen_Satsuei_[記念撮影]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "記念撮影 - Kinensatsuei",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_記念撮影_-_Kinensatsuei_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "記念撮影",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_記念撮影_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "記念撮影",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_記念撮影_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
